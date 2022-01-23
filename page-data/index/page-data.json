@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"id":"43360034-5172-5f96-b0be-47ec80a3e672","fields":{"slug":"/2019/06/mux-and-vim/"},"frontmatter":{"title":"Windows Subsystem Linux, tmux and vim","date":"30 June, 2019"},"excerpt":"Phew! I had quite the adventure through an interesting array of tech yesterday,\nand I'm pleased to report I survived, and the prognosis was…"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["4224293195"]}
